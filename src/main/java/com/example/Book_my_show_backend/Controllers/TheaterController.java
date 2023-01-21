@@ -22,4 +22,8 @@ public class TheaterController {
         return theaterService.createTheater(theaterRequestDto);
 
     }
+
+    //Get theaters by theaterId
+
+    //Get all theaters
 }

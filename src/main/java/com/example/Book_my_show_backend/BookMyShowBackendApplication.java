@@ -1,4 +1,4 @@
-package com.example.Book_My_Show_Backend;
+package com.example.Book_my_show_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
